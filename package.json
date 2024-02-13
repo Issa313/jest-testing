@@ -7,5 +7,9 @@
     "test": "npm test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "-": "^0.0.1",
+    "jest": "^29.7.0"
+  }
 }
